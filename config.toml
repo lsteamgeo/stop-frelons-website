@@ -2,3 +2,26 @@ baseURL = "https://stop-frelons.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "sftheme"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "accueil"
+    name = "Accueil"
+    url = "/"
+    weight = -110
+
+  [[menu.main]]
+    name = "Conseils"
+    url = "/conseils/"
+    weight = -100
+  
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = -100
+
+  [[menu.main]]
+    name = "Zones d'Interventions"
+    url = "/zones-d-interventions/"
+    weight = -100

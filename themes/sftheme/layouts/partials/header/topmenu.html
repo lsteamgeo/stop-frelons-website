@@ -1,0 +1,55 @@
+<!-- Menu Top Bar - Start -->
+<div class="topbar " data-effect="fadeIn">
+    <div class="menu">
+        <div class="primary inviewport animated delay4" data-effect="fadeInRightBig">
+            <div class='cssmenu'>
+                <!-- Menu - Start -->
+                <ul class='menu-ul'>
+                    {{ $currentPage := . }}
+                    {{ range .Site.Menus.main }}
+                        <li class="{{ if $currentPage.IsMenuCurrent  "main" . }}active{{ end }}">
+                            <a href="{{ .URL }}">
+                                <span>{{ .Name }}</span>
+                            </a>
+                        </li>
+                    {{ end }}
+
+
+                </ul>
+                <!-- Menu - End -->
+            </div>
+        </div>
+        <div class="black inviewport animated delay4" data-effect="fadeInLeftBig">
+            <div class='cssmenu'>
+                <!-- Menu - Start -->
+                <ul class='menu-ul'>
+                    <li class='has-sub'>
+                        <a href='#'>LE FRELON <i class='mdi mdi-chevron-down'></i></a>
+                        <ul>
+                            <li>
+                                <a href='histoire-du-frelon-asiastique'>Histoire du frelon</a>
+                            </li>
+                            <li>
+                                <a href='quelques-chiffres'>Quelques chiffres</a>
+                            </li>
+                            <li>
+                                <a href='livres-specialises'>Livres spécialisés</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="">
+                        <a href='/articles'>Blog</a>
+                    </li>
+                    <li class='has-sub'>
+                        <a href='shop'>Shop</a>
+                    </li>
+                    <li class="">
+                        <a href='/contact'>Contact</a>
+                    </li>
+                </ul>
+                <!-- Menu - End -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Menu Top Bar - End -->
