@@ -1,0 +1,112 @@
+body {
+  font-family: "Raleway", Arial, sans-serif;
+}
+
+
+.nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.nav-link {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-top: 5px;
+  padding-right: 0;
+  padding-bottom: 5px;
+  padding-left: 0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #49545a;
+  text-transform: uppercase;
+}
+
+.nav-link svg {
+  fill: currentColor;
+  margin-right: 15px;
+  color: #9aa5ac;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+}
+
+.nav-link:hover {
+  font-weight: 600;
+  color: #42a2dc;
+}
+
+.nav-link:hover svg {
+  fill: #42a2dc;
+}
+
+.nav-link.active {
+  font-weight: 600;
+  color: #42a2dc;
+}
+
+.nav-link.active svg {
+  fill: #42a2dc;
+  color: #42a2dc;
+}
+
+.left-menu .nav-link {
+  padding-bottom: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #49545a;
+}
+
+.icon-20 {
+  width: 20px;
+  height: 20px;
+}
+
+.nav-heading {
+  background-color: transparent;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #9aa5ac;
+  letter-spacing: 1px;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  margin-bottom: 10px;
+}
+
+.btn {
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+.btn span {
+    font-weight: 600;
+    font-size: 1rem;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    white-space: normal;
+}
+
+.btn svg {
+    fill: #fff;
+    margin-right: 15px;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+}
