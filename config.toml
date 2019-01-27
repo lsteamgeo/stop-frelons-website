@@ -34,6 +34,16 @@ theme = "sftheme"
     name = "Histoire du Frelon"
     url = "/le-frelon/histoire-du-frelon-asiatique"
   [[menu.mainb]]
+  	parent = "leFrelon"
+  	identifier = "leFrelonSub3"
+    name = "Livres spécialisés"
+    url = "/le-frelon/livres-specialises"
+  [[menu.mainb]]
+  	parent = "leFrelon"
+  	identifier = "leFrelonSub2"
+    name = "Quelques chiffres"
+    url = "/le-frelon/quelques-chiffres"
+  [[menu.mainb]]
     name = "Blog"
     url = "/articles/"
     weight = 3 
