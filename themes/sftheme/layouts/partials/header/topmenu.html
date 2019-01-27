@@ -23,7 +23,30 @@
             <div class='cssmenu'>
                 <!-- Menu - Start -->
                 <ul class='menu-ul'>
-                    <li class='has-sub'>
+                    {{ range .Site.Menus.mainb }}
+                        {{ if .HasChildren }}
+                            <li class="has-sub {{ if $currentPage.HasMenuCurrent "mainb" . }}active{{ end }}">
+                                <a href="{{ .URL }}">
+                                    <span>{{ .Name }} {{ .Post }}</span>
+                                </a>
+                                <ul class="sub-menu">
+                                    {{ range .Children }}
+                                        <li class="{{ if $currentPage.IsMenuCurrent "mainb" . }}active{{ end }}">
+                                            <a href="{{ .URL }}">{{ .Name }}</a>
+                                        </li>
+                                    {{ end }}
+                                </ul>
+                            </li>
+                        {{ else }}
+                            <li>
+                                <a href="{{ .URL }}">
+                                    <span>{{ .Name }}</span>
+                                </a>
+                            </li>
+                        {{ end }} 
+                    {{ end }}
+
+                    <!--<li class='has-sub'>
                         <a href='#'>LE FRELON <i class='mdi mdi-chevron-down'></i></a>
                         <ul>
                             <li>
@@ -45,7 +68,7 @@
                     </li>
                     <li class="">
                         <a href='/contact'>Contact</a>
-                    </li>
+                    </li>-->
                 </ul>
                 <!-- Menu - End -->
             </div>
