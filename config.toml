@@ -1,6 +1,6 @@
 baseURL = "https://stop-frelons.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Stop-Frelons"
 theme = "sftheme"
 
 [menu]
