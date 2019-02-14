@@ -6,6 +6,4 @@ image: /images/uploads/photo-1481595357459-84468f6eeaac.jpg
 ---
 Vol d'une abeille.
 
-
-
 ![](/images/uploads/frelon.png)
