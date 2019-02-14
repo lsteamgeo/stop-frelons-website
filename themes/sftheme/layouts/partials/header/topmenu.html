@@ -7,7 +7,7 @@
                 <ul class='menu-ul'>
                     {{ $currentPage := . }}
                     {{ range .Site.Menus.main }}
-                        <li class="{{ if $currentPage.IsMenuCurrent  "main" . }}active{{ end }}">
+                        <li class='{{ if $currentPage.IsMenuCurrent  "main" . }}active{{ end }}'>
                             <a href="{{ .URL }}">
                                 <span>{{ .Name }}</span>
                             </a>
@@ -23,6 +23,7 @@
             <div class='cssmenu'>
                 <!-- Menu - Start -->
                 <ul class='menu-ul'>
+                    {{ $currentPage := . }}
                     {{ range .Site.Menus.mainb }}
                         {{ if .HasChildren }}
                             <li class="has-sub {{ if $currentPage.HasMenuCurrent "mainb" . }}active{{ end }}">
@@ -38,7 +39,7 @@
                                 </ul>
                             </li>
                         {{ else }}
-                            <li>
+                            <li class='{{ if or ($currentPage.IsMenuCurrent "mainb" .) ($currentPage.HasMenuCurrent "mainb" .) }} active {{end}}'>
                                 <a href="{{ .URL }}">
                                     <span>{{ .Name }}</span>
                                 </a>

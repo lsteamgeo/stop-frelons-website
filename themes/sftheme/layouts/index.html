@@ -1,7 +1,8 @@
+{{ define "header" }}
+{{- partial "header.html" . -}}
+{{ end }}
+
 {{ define "main" }}
-
 {{ partial "homepage/nos-interventions" .Params }}
-
 {{ partial "homepage/informations" .Params }}
-
 {{ end }}

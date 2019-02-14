@@ -4,7 +4,6 @@ title = "Stop-Frelons"
 theme = "sftheme"
 
 [menu]
-
   [[menu.main]]
     name = "Accueil"
     url = "/"
@@ -44,8 +43,9 @@ theme = "sftheme"
     name = "Quelques chiffres"
     url = "/le-frelon/quelques-chiffres"
   [[menu.mainb]]
+    identifier = "blog"
     name = "Blog"
-    url = "/articles/"
+    url = "/blog/"
     weight = 3 
   [[menu.mainb]]
     name = "Contact"
