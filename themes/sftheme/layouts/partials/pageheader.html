@@ -21,10 +21,12 @@
             <!-- Header Slide - Start -->
             <div class="header-slide" style="position:relative;">
                 
-                <img alt="header-banner-image" src="/img/banner-8.jpg" class='header-img' style=''>
+               {{ if isset .Params "image" }}
+                    <img alt="header-banner-image" src="{{ .Params.image }}" class='header-img' style=''>
+               {{ else }}
+                    <img alt="header-banner-image" src="/img/banner-8.jpg" class='header-img' style=''>
+               {{ end }}
                
-                <img alt="header-banner-image" src="{{ .Image }}" class='header-img' style=''>
-                
 
                 <div class="overlay overlaysmall2">
                     <div class="black inviewport animated delay4" data-effect="fadeInLeftOpacity"></div>
