@@ -5,5 +5,6 @@ tags: []
 featured_image: ""
 description: ""
 draft: false
+image: ""
 menu:mainb
 ---
