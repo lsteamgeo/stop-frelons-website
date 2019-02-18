@@ -14,7 +14,7 @@
             
             <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 text-article">
               <ul class="flex-ns flex-wrap mhn1-ns pa3">
-                {{ range (.Paginator 4).Pages.ByDate.Reverse }}
+                {{ range (.Paginator 1).Pages.ByDate.Reverse }}
                   <div class="w-50-ns ph1-ns flex">
                     {{ .Render "li"}}
                   </div>
