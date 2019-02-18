@@ -1,0 +1,25 @@
+<!-- Blog - Start -->
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 blog blog_centered blog_right">
+    <div class="row">
+    <!-- Blog Image - Start -->
+	    <div class=" col-lg-10 col-md-10 col-sm-10 col-xs-12 col-lg-offset-1  col-md-offset-1 col-sm-offset-1 col-xs-offset-0 text-center pic inviewport animated delay1" data-effect="fadeIn">
+	    	{{ if isset .Params "image" }}
+			<img alt="" src="{{ .Params.image }}" class="img-responsive" />
+			{{ else }}
+			<img alt="" src="/img/banner-8.jpg" class="img-responsive" />
+			{{ end }}
+	    </div>
+	    <!-- Blog Image - End -->
+	    <!-- Blog Info - Start -->
+	    <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12 col-lg-offset-1  col-md-offset-1 col-sm-offset-1 col-xs-offset-0 text-center inviewport animated delay1" data-effect="fadeIn">
+	        <div class="info">
+	            <span class="date">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+	            <h4 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+	            <p>{{ .Description }}</p>
+	            <a class="btn btn-primary text-on-primary"  href="{{ .Permalink }}">Lire</a>
+	        </div>
+	    </div>
+	    <!-- Blog Info - End -->
+	</div>
+</div>
+<!-- Blog - End -->

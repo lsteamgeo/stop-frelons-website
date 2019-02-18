@@ -1,0 +1,30 @@
+{{ define "header"}}
+{{ partial "page_header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+ 
+<!-- Section Start - Page With Sidebar -->
+<section  id='team'>
+    <div class="container"> 
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+               {{ partial "menu/left.html" . }}
+            </div>
+            
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 text-article">
+              <ul class="flex-ns flex-wrap mhn1-ns pa3">
+                {{ range (.Paginator 4).Pages.ByDate.Reverse }}
+                  <div class="w-50-ns ph1-ns flex">
+                    {{ .Render "li"}}
+                  </div>
+                {{ end }}
+              </ul>
+              {{ partial "pagination" . }}
+          </div>
+      </div>
+  </div>
+</section>
+<!-- Section End - Page With Sidebar -->
+
+{{ end }}
