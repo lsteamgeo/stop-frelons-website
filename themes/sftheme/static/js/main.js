@@ -242,7 +242,7 @@ jQuery(function($) {
                 $("#c_name").addClass("green");
                 console.log("name done");
             }
-            enable_form();
+            //enable_form();
         });
 
         $('#c_email').keyup(function() {
@@ -258,7 +258,7 @@ jQuery(function($) {
                 $("#c_email").addClass("green");
                 console.log("email done");
             }
-            enable_form();
+            //enable_form();
         });
 
         $('#c_phone').keyup(function() {
@@ -273,7 +273,7 @@ jQuery(function($) {
                 $("#c_phone").addClass("green");
                 console.log("phone done");
             }
-            enable_form();
+            //enable_form();
 
         });
 
@@ -288,7 +288,7 @@ jQuery(function($) {
                 console.log("message done");
             }
 
-            enable_form();
+            //enable_form();
 
         });
 
@@ -337,11 +337,11 @@ jQuery(function($) {
             $("#c_phone").hasClass("green") &&
             $("#c_email").hasClass("green") &&
             $("#c_message").hasClass("green")) {
-            $("#c_send").removeClass("disabled");
-            console.log("enabled");
+            //$("#c_send").removeClass("disabled");
+            //console.log("enabled");
         } else {
-            $("#c_send").addClass("disabled");
-            console.log("disabled");
+            //$("#c_send").addClass("disabled");
+            //console.log("disabled");
         }
 
     }
