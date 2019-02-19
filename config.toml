@@ -9,9 +9,10 @@ theme = "sftheme"
     url = "/"
     weight = -110
   [[menu.main]]
+    identifier = "conseils"
     name = "Conseils"
     url = "/conseils/"
-    weight = -100
+    weight = 3
   [[menu.main]]
     name = "Services"
     url = "/services/"
@@ -22,7 +23,7 @@ theme = "sftheme"
     weight = -100
 
   [[menu.mainb]]
- 	identifier = "leFrelon"
+ 	  identifier = "leFrelon"
     name = "Le Frelon"
     url = "/le-frelon"
     post = "<i class='mdi mdi-chevron-down'></i>"
