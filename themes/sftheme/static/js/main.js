@@ -456,7 +456,7 @@ jQuery(function($) {
         CALIBER_SETTINGS.inViewPortAnimation();
         CALIBER_SETTINGS.mobileMenu();
         CALIBER_SETTINGS.validateContactForm();
-        CALIBER_SETTINGS.sendMessageAJAX();
+        //CALIBER_SETTINGS.sendMessageAJAX();
         CALIBER_SETTINGS.fancyBox();
         CALIBER_SETTINGS.parallaxScrolling();
         CALIBER_SETTINGS.settingsPanel();
