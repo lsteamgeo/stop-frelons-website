@@ -7,7 +7,7 @@ weight : 10
 ---
 
 <div class="contact_form_page">		
-    <form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+    <form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true" action="/contact/success">
     	<p class="hidden">
    			<label>Contrôle anti-robot, ne pas compléter ce champs : <input name="bot-field" /></label>
   		</p>
