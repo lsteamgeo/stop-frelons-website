@@ -18,6 +18,6 @@ weight : 10
 		<div class="col-xs-12" style="padding-bottom:20px;">
 			<div data-netlify-recaptcha="true" ></div>
 		</div>
-		<p><button type="submit" id="c_send" class="btn btn-block btn-primary transition">Envoyer</button></p>
+		<p><button type="submit" id="c_send" class="btn btn-block btn-primary">Envoyer</button></p>
 	</form>
 </div>
