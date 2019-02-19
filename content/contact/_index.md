@@ -16,7 +16,7 @@ weight : 10
 		<input type="text" name="email" id="c_email" placeholder="Email" value="" class="col-xs-12 transition">
 		<input type="text" name="phone" id="c_phone" placeholder="Téléphone" value="" class="col-xs-12 transition">
 		<textarea name="message" id="c_message" class="col-xs-12 transition" placeholder="Message"></textarea>
-		<div data-netlify-recaptcha="true"></div>
+		<div data-netlify-recaptcha="true"></div><br />
 		<button type="submit" id="c_send" class="btn btn-block btn-primary transition">Envoyer</button>
 	</form>
 </div>
