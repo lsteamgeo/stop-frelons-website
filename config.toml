@@ -8,20 +8,6 @@ theme = "sftheme"
     name = "Accueil"
     url = "/"
     weight = -110
-  [[menu.main]]
-    identifier = "conseils"
-    name = "Conseils"
-    url = "/conseils/"
-    weight = 3
-  [[menu.main]]
-    name = "Services"
-    url = "/services/"
-    weight = -100
-  [[menu.main]]
-    name = "Zones d'Interventions"
-    url = "/zones-d-interventions/"
-    weight = -100
-
   [[menu.mainb]]
  	  identifier = "leFrelon"
     name = "Le Frelon"
@@ -48,7 +34,3 @@ theme = "sftheme"
     name = "Blog"
     url = "/blog/"
     weight = 3 
-  [[menu.mainb]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4

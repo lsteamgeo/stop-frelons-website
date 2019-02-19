@@ -1,4 +1,3 @@
-
 <div class="sidebar-widget">
     <h4>Categories</h4>
     <div class="headul"></div>
@@ -7,6 +6,7 @@
         {{ range .Site.Menus.main }}
             <li class='{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}'><i class="mdi mdi-arrow-right"></i><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
+
         {{ range .Site.Menus.mainb }}
             <li class='{{ if or ($currentPage.IsMenuCurrent "mainb" .) ($currentPage.HasMenuCurrent "mainb" .) }}active{{end}}'><i class="mdi mdi-arrow-right"></i><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
