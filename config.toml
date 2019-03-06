@@ -8,29 +8,29 @@ theme = "sftheme"
     name = "Accueil"
     url = "/"
     weight = -110
-  [[menu.mainb]]
- 	  identifier = "leFrelon"
-    name = "Le Frelon"
-    url = "/le-frelon"
-    post = "<i class='mdi mdi-chevron-down'></i>"
-    weight = 1 
-  [[menu.mainb]]
-  	parent = "leFrelon"
-  	identifier = "leFrelonSub1"
-    name = "Histoire du Frelon"
-    url = "/le-frelon/histoire-du-frelon-asiatique"
-  [[menu.mainb]]
-  	parent = "leFrelon"
-  	identifier = "leFrelonSub3"
-    name = "Livres spécialisés"
-    url = "/le-frelon/livres-specialises"
-  [[menu.mainb]]
-  	parent = "leFrelon"
-  	identifier = "leFrelonSub2"
-    name = "Quelques chiffres"
-    url = "/le-frelon/quelques-chiffres"
+#[[menu.mainb]]
+#  identifier = "leFrelon"
+#  name = "Le Frelon"
+#  url = "/le-frelon"
+#  post = "<i class='mdi mdi-chevron-down'></i>"
+#  weight = 1 
+#[[menu.mainb]]
+# 	parent = "leFrelon"
+#  	identifier = "leFrelonSub1"
+#    name = "Histoire du Frelon"
+#    url = "/le-frelon/histoire-du-frelon-asiatique"
+##  [[menu.mainb]]
+#  	parent = "leFrelon"
+#  	identifier = "leFrelonSub3"
+ #   name = "Livres spécialisés"
+ #   url = "/le-frelon/livres-specialises"
+  #[[menu.mainb]]
+  #	parent = "leFrelon"
+  #identifier = "leFrelonSub2"
+   # name = "Quelques chiffres"
+    #url = "/le-frelon/quelques-chiffres"
   [[menu.mainb]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
-    weight = 3 
+    weight = 3
