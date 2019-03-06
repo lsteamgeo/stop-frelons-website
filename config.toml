@@ -8,11 +8,6 @@ theme = "sftheme"
     name = "Accueil"
     url = "/"
     weight = -110
-[[menu.mainb]]
-  identifier = "order"
-  name = "Commander une intervention"
-  url = "/shop"
-  weight = 1 
 #[[menu.mainb]]
 #  identifier = "leFrelon"
 #  name = "Le Frelon"
