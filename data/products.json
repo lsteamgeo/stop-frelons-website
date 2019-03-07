@@ -1,6 +1,6 @@
 [{
     "id": "1",
-    "status":"Vous êtes un   particulier",
+    "qualite":"un particulier",
     "name": "Intervention particulier",
     "price": 139.00,
     "description": "Traitement de nid de frelons/guêpes",
@@ -8,7 +8,7 @@
 },
 {
     "id": "2",
-    "status":"Vous êtes un professionnel",
+    "qualite":"un professionnel",
     "name": "Intervention professionnel",
     "price": 139.00,
     "description": "Traitement de nid de frelons/guêpes",
@@ -16,7 +16,7 @@
 },
 {
     "id": "3",
-    "status":"Vous êtes une administration",
+    "qualite":"une administration",
     "name": "Pack administration : 5 interventions",
     "price": 645.00,
     "description": "Traitement de nid de frelons/guêpes",
