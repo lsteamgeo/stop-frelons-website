@@ -14,15 +14,19 @@
             
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-article">
               <header>
-                <h1 class="heading left-align">
+                <h1 class="heading">
                   {{ .Title }}
                 </h1>
-                <div class="headul left-align"></div>
+                <div class="headul"></div>
+                <p class="subheading">Lorem ipsum dolor sit amet, consectetuer adipiscing elit enean commodo  eget dolor aenean massa eget dolor aenean massa</p>
               </header>
               
-              <article>
+              <div class='products'>
                 {{ .Content }}
-              </article>
+                {{ range $products }}
+                  {{ partial "product.html" . }}
+                {{ end }}
+              </div>
             </div>
     </div>
 </section>
