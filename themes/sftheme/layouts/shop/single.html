@@ -3,6 +3,19 @@
 {{ end }}
 
 {{ define "main" }}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+
+<script id="snipcart"
+    data-api-key="MTdkYmYzNWQtMWFkZi00NGJlLTkwMWYtYzY1YWNjODk5MDEzNjM2ODYxOTIyNDQyMzI0NTgy"
+    data-cart-custom1-name="Position du nid (arbre, sous toiture, cheminée, ...)"
+    data-cart-custom1-required="false"
+    data-cart-custom2-name="Hauteur approximative du nid (hauteur d'homme, 5m, 10m, 15m)"
+    data-cart-custom2-required="false"
+    data-cart-custom3-name="Adresse d'intervention si différente de l'adresse de facturation"
+    data-cart-custom3-required="false"
+    src="https://cdn.snipcart.com/scripts/2.0/snipcart.js">
+</script>
  
 <!-- Section Start - Page With Sidebar -->
 <section  id='team'>
@@ -24,7 +37,7 @@
 
                 <button
                     class="snipcart-add-item"
-                    data-item-id="{{ .URL }}"
+                    data-item-id='{{ .Param "id" }}'
                     data-item-name="{{ .Title }}"
                     data-item-price="{{ .Params.price }}"
                     data-item-url="{{ .Permalink }}"
@@ -35,8 +48,10 @@
                     data-item-image="{{ . | absURL }}"
                     {{ end }}
                 >
-                Payer en ligne
+                Commander une intervention
                 </button>
+
+               
 
               </article>
             </div>
