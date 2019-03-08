@@ -8,5 +8,5 @@ weight : 4
 
 <p>Nous nous déplaçons rapidement dans les départements des Alpes-Maritimes, du Var ainsi que dans la Principauté de Monaco.</p>
 <p>Notre délai maximum d’intervention est de 24 heures.</p>
-<p class="lead">Nous intervenons 7 jours sur 7 de 8h à 20h (le dimanche et jours fériés compris).</p>
-<p>Les communes disposant d’un abonnement annuel sont prioritaires sur nos plannings d’intervention.</p>
+<p><strong>Nous intervenons 7 jours sur 7 de 8h à 20h (le dimanche et jours fériés compris).</strong></p>
+<p><strong>Les communes disposant d’un abonnement annuel sont prioritaires sur nos plannings d’intervention.</strong></p>
