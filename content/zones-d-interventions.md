@@ -9,9 +9,6 @@ weight : 4
 <p>Nous intervenons dans les départements des Alpes-Maritimes, du Var ainsi qu'à Monaco. En cas d'urgence et à titre exceptionnel, nous pouvons intervenir sur des départements non mentionnés mais néanmoins limitrophes aux départements du Var et des Alpes-Maritimes.</p>
 <p>Notre délai maximum d’intervention est de 24 heures.</p>
 <p><strong>Nous intervenons 7 jours sur 7 de 8h à 20h (le dimanche et jours fériés compris).</strong></p>
-<p><strong>Les communes disposant d'un forfait sont prioritaires sur nos plannings d’intervention.</strong></p>
-
-
 
 <p style="font-size:10px;">Principauté de Monaco 98000.</p>
 
