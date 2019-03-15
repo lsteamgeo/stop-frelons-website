@@ -171,3 +171,11 @@ section.header .container .logo span.phone_number::after {
     display: block;
     margin-left: 0px;
 }
+
+.h1,
+h1 {
+    font-size: 60px;
+    line-height: 60px;
+}
+
+section .container{padding-top:50px;}
