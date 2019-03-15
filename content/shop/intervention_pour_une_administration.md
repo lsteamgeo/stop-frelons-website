@@ -5,7 +5,7 @@ subheading: "Stop-Frelons vous propose un forfait de 5 interventions à utiliser
 image: /images/uploads/photo-1481595357459-84468f6eeaac.jpg
 date: 2019-02-18T19:36:10+01:00
 draft: false
-cartImage: "/images/uploads/photo-1481595357459-84468f6eeaac.jpg"
+cartImage: "/images/uploads/picto-intervention.gif"
 price: 635
 shortDescription: "Forfait 5 interventions"
 id: 3
