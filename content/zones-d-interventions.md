@@ -4,6 +4,7 @@ date: 2019-02-18T19:36:10+01:00
 draft: false
 menu: main
 weight : 4
+image: "/img/banner-zonesinterventions.jpg"
 ---
 
 <p>Nous intervenons dans les départements des Alpes-Maritimes, du Var ainsi qu'à Monaco. En cas d'urgence et à titre exceptionnel, nous pouvons intervenir sur des départements non mentionnés mais néanmoins limitrophes aux départements du Var et des Alpes-Maritimes.</p>
