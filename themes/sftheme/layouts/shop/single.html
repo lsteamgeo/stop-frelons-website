@@ -19,46 +19,51 @@
     src="https://cdn.snipcart.com/scripts/2.0/snipcart.js">
 </script>
  
-<!-- Section Start - Page With Sidebar -->
+<!-- Section Start -->
 <section  id='team'>
     <div class="container"> 
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-article">
-              <header>
-                <h1 class="heading" style="font-size : 40px;line-height:40px;">
-                  {{ .Title }}
-                </h1>
-                <div class="headul" style=" margin : 20px auto;"></div>
-              </header>
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-article">
+            <header>
+              <h1 class="heading" style="font-size : 40px;line-height:40px;">
+                {{ .Title }}
+              </h1>
+              <div class="headul" style=" margin : 20px auto;"></div>
+            </header>
               
-              <article>
-                <p class="subheading">
-                  {{ .Param "subheading" }}
-                </p>
-                {{ .Content }}
+            <article>
+              <p class="subheading">
+                {{ .Param "subheading" }}
+              </p>
 
+              {{ .Content }}
+
+              <div class="col-lg-6 col-md-6 col-md-offset-0 col-sm-12 col-xs-12 product inviewport animated delay1" data-effect="fadeInUp">
+                <a href="#" class="btn btn-block btn-primary enabled transition">Régler lors de l'intervention</a>
+              </div>
+
+              <div class="col-lg-6 col-md-6 col-md-offset-0 col-sm-12 col-xs-12 product inviewport animated delay1" data-effect="fadeInUp">
                 <button
-                    class="snipcart-add-item"
-                    data-item-id='{{ .Param "id" }}'
-                    data-item-name="{{ .Title }}"
-                    data-item-price="{{ .Params.price }}"
-                    data-item-url="{{ .Permalink }}"
-                    {{ with .Params.shortDescription }}
-                    data-item-description="{{ . }}"
-                    {{ end }}
-                    {{ with .Params.cartImage }}
-                    data-item-image="{{ . | absURL }}"
-                    {{ end }}
-                >
-                Commander une intervention
+                      class="snipcart-add-item btn btn-block btn-primary enabled transition"
+                      data-item-id='{{ .Param "id" }}'
+                      data-item-name="{{ .Title }}"
+                      data-item-price="{{ .Params.price }}"
+                      data-item-url="{{ .Permalink }}"
+                      {{ with .Params.shortDescription }}
+                      data-item-description="{{ . }}"
+                      {{ end }}
+                      {{ with .Params.cartImage }}
+                      data-item-image="{{ . | absURL }}"
+                      {{ end }}
+                  >
+                  Régler en ligne
                 </button>
-
-               
-
-              </article>
-            </div>
+              </div>
+            </article>
+        </div>
+      </div>
     </div>
 </section>
-<!-- Section End - Page With Sidebar -->
+<!-- Section End -->
 
 {{ end }}
