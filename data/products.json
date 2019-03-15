@@ -16,7 +16,8 @@
     "price": 139.00,
     "description": "Traitement de nid de frelons/guêpes",
     "image": "/img/intervention_02.jpg",
-    "url": "https://stopfrelons.netlify.com"
+    "url": "https://stopfrelons.netlify.com",
+    "link": "/shop/intervention_pour_un_professionnel/"
 },
 {
     "id": "3",
@@ -26,5 +27,6 @@
     "price": 645.00,
     "description": "Traitement de nid de frelons/guêpes",
     "image": "/img/intervention_03.jpg",
-    "url": "https://stopfrelons.netlify.com"
+    "url": "https://stopfrelons.netlify.com",
+    "link": "/shop/intervention_pour_une_administration/"
 }]
