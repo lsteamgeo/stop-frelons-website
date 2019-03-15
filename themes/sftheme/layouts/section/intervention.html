@@ -1,0 +1,27 @@
+{{ define "header"}}
+{{ partial "page_header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+ 
+<!-- Section Start - Page With Sidebar -->
+<section  id='team'>
+    <div class="container"> 
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-article">
+              <header>
+                <h1 class="heading left-align">
+                  {{ .Title }}
+                </h1>
+                <div class="headul left-align"></div>
+              </header>
+              
+              <article>
+                {{ .Content }}
+              </article>
+            </div>
+    </div>
+</section>
+<!-- Section End - Page With Sidebar -->
+
+{{ end }}
