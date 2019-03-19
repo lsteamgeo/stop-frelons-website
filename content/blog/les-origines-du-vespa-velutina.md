@@ -7,7 +7,7 @@ description: >-
   (du sud), Nord de l’Inde, Taiwan, Thaïlande, Laos, Vietnam, Malaisie et
   archipel indonésien.
 ---
-L’espace naturel et d’origine de l’espèce Vespa velutina est très étendu. Il se situe dans une grande partie du sud-est asiatique : Chine (sud-est), Corée (du sud), Nord de l’Inde, Taiwan, Thaïlande, Laos, Vietnam, Malaisie et archipel indonésien.
+L’espace naturel et d’origine de l’espèce Vespa Velutina est très étendu. Il se situe dans une grande partie du sud-est asiatique : Chine (sud-est), Corée (du sud), Nord de l’Inde, Taiwan, Thaïlande, Laos, Vietnam, Malaisie et archipel indonésien.
 
 Il existe plus d'une centaine d'espèces de frelons dans le monde entier. En Europe et plus précisément en France, il y a encore peu de temps, seul le frelon européen dit le Vespa crabro était implanté.
 
