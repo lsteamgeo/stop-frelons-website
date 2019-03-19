@@ -179,3 +179,5 @@ h1 {
 }
 
 section .container{padding-top:50px;}
+
+section.footer .twitter-widget .tweet i{font-size:20px;line-height:25px;}
