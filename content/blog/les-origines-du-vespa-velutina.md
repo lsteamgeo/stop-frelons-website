@@ -6,6 +6,7 @@ description: >-
   se situe dans une grande partie du sud-est asiatique : Chine (sud-est), Corée
   (du sud), Nord de l’Inde, Taiwan, Thaïlande, Laos, Vietnam, Malaisie et
   archipel indonésien.
+image: /images/uploads/les_origines_du_vespa_velutina.jpg
 ---
 L’espace naturel et d’origine de l’espèce Vespa Velutina est très étendu. Il se situe dans une grande partie du sud-est asiatique : Chine (sud-est), Corée (du sud), Nord de l’Inde, Taiwan, Thaïlande, Laos, Vietnam, Malaisie et archipel indonésien.
 
