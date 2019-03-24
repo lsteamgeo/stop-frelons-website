@@ -1,5 +1,5 @@
-baseURL = "https://stop-frelons.netlify.com/"
-languageCode = "en-us"
+baseURL = "https://www.stop-frelons.com"
+languageCode = "fr-fr"
 title = "Stop-Frelons"
 theme = "sftheme"
 
