@@ -459,7 +459,7 @@ jQuery(function($) {
         //CALIBER_SETTINGS.sendMessageAJAX();
         CALIBER_SETTINGS.fancyBox();
         CALIBER_SETTINGS.parallaxScrolling();
-        CALIBER_SETTINGS.settingsPanel();
+        //CALIBER_SETTINGS.settingsPanel();
        });
 
     $(window).scroll(function() {
