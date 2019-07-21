@@ -2,7 +2,7 @@
 title: Les frelons asiatiques équipés d'un balise émettrice.
 date: 2019-07-01T11:08:53.495Z
 description: >-
-  Les chercheurs de l’Inra ont capturé des frelons, des ouvrières chasseuses
+  Les chercheurs de l'INRA ont capturé des frelons, des ouvrières chasseuses
   devant des ruches.
 image: /images/uploads/logo_cnrs_inra.jpg
 ---
