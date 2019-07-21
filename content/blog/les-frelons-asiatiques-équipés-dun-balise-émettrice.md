@@ -1,5 +1,5 @@
 ---
-title: Les frelons asiatiques équipés d'un balise émettrice.
+title: Les frelons asiatiques équipés d'une balise émettrice.
 date: 2019-07-01T11:08:53.495Z
 description: >-
   Les chercheurs de l'INRA ont capturé des frelons, des ouvrières chasseuses
