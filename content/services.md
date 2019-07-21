@@ -10,7 +10,8 @@ weight : 2
 <p>Nous sommes équipés pour traiter des nids à toutes les hauteurs.</p>
 <p>Nous pouvons intervenir au sol, sous toiture, dans les cheminées, dans les arbres...</p>
 <p>Les interventions à taille humaine sont effectuées à l’aide d’un pulvérisateur. Au-delà, l'utilisation de perches est utilisée.</p>
-<p>En cas de nid de frelons à des hauteurs importantes, nous sommes équipés d’un drone pour atteindre le nid à traiter.</p>
+<p>En cas de nid de frelons à des hauteurs importantes, nous sommes équipés d'un drone pour atteindre le nid à traiter.</p>
+<p>Néanmoins, certaines interventions peuvent nécessité l’utilisation de matériel spécifique (grue, nacelle, ...). Ces éléments extérieurs devront être fournis par le client.</p>
 <p>Notre objectif principal est le traitement massif des nids de frelons asiatiques afin de ralentir la propagation de cette espèce invasive et dangereuse pour nos insectes pollinisateurs comme l’abeille.</p>
 		
 <h3>Que comprend le prix de l’intervention ?</h3>

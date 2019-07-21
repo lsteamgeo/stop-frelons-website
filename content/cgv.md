@@ -16,7 +16,7 @@ draft: false
 
 <p>3 - Les délais provenant d'aléas techniques de quelque nature que ce soit, tels que accidents survenus sur le matériel, pénurie de carburant, grèves, difficultés techniques ou cas de force majeure, entraînant un retard apporté à l'exécution des travaux, dégagent notre responsabilité et ne peuvent donner lieu à l'annulation de l'ordre, ni au versement d’aucune indemnité ou pénalité. Le client assume l'entière responsabilité et toute conséquence dommageable directe ou indirecte, des ordres formulés directement par ses soins à notre personnel, sauf s'ils s'entendent en stricte adéquation avec ceux émis par nos soins en regard des consignes de sécurité liées à nos activités.</p>
 
-<p>4 - Certaines interventions peuvent nécessités l’utilisation de matériel spécifique. Ces éléments extérieurs devront être fournis par le client.</p>
+<p>4 - Certaines interventions peuvent nécessité l'utilisation de matériel spécifique. Ces éléments extérieurs devront être fournis par le client.</p>
 
 <p>5 - Sauf stipulations contraires précisées dans notre offre, nos factures sont payables dès l’intervention effectuée par carte bancaire ou espèces. Aucun délai de paiement ne sera accordé.</p>
 
