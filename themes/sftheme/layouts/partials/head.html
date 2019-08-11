@@ -1,10 +1,19 @@
 <head>
-	<title>{{ .Title }} | Spécialiste du traitement des nids de frelons, de frelons asiatiques et de guêpes</title>
+	<title>{{ .Title }} | {{ .Params "title2" }}</title>
 
 	<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
-
-	<meta name="description" content="Spécialiste du traitement des nids de frelons asiatiques, de frelons européens et de guêpes." />
-	<meta name="keywords" content="frelons, frelons asiatiques, frelons européens, guêpes, traitement nids de frelons, alpes-maritimes, var, monaco." />
-
+	
+	{{ if isset .Params "description" }}
+		<meta name="description" content="{{ .Params.image }}" />
+    {{ else }}
+		<meta name="description" content="Spécialiste du traitement des nids de frelons asiatiques, de frelons européens et de guêpes." />
+    {{ end }}
+	
+	{{ if isset .Params "keywords" }}
+		<meta name="keywords" content="{{ .Params.keywords }}" />
+    {{ else }}
+		<meta name="keywords" content="frelons, frelons asiatiques, frelons européens, guêpes, traitement nids de frelons, alpes-maritimes, var, monaco." />
+    {{ end }}
+	
 	<link rel="stylesheet" href="/css/main.css" />
 </head>
