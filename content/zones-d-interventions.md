@@ -1,5 +1,6 @@
 ---
-title: "Zones d'interventions"
+title: "Stop-Frelons"
+title2: "Zones d'interventions pour une destruction des nids de frelons asiatiques ou de guêpes"
 date: 2019-02-18T19:36:10+01:00
 draft: false
 menu: main
