@@ -1,5 +1,10 @@
 <head>
-	<title>{{ .Title }}</title>
+	<title>
+	{{ .Title }}
+	{{ if isset .Params "title2" }}
+		| {{ .Params.title2 }}
+	{{ end }}
+	</title>
 
 	<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
 	
