@@ -1,5 +1,6 @@
 ---
-title: "Prise de rendez-vous avec un technicien pour une intervention chez un professionnel sur nids de frelons asiatiques/européens."
+title: "Intervention"
+title2: "Prise de rendez-vous avec un technicien pour une intervention chez un professionnel sur nids de frelons asiatiques/européens."
 subtitle: "Vous êtes un professionnel"
 subheading: "Stop-Frelons vous propose un seul et unique tarif à 139 euros, et ce, qu'elle que soit la hauteur du nid, le jour du déplacement ou le temps passé. Ce tarif comprend le déplacement, l'intervention et notre garantie."
 description: "Service destruction des nids de frelons asiatiques, de frelons européens et de guêpes."
