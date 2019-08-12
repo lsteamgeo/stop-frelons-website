@@ -1,6 +1,8 @@
 ---
 title: "Zones d'interventions"
 title2: "Zones d'interventions pour une destruction des nids de frelons asiatiques ou de guêpes"
+description: "Zones d'interventions pour une destruction des nids de frelons asiatiques, de frelons européens et de guêpes 7j/7 - 7h/22h."
+keywords: "nid de frelons,enlever nid frelons,frelons,frelons asiatiques,frelons européens,guêpes,traitement nids de frelons,alpes-maritimes,var,monaco."
 date: 2019-02-18T19:36:10+01:00
 draft: false
 menu: main
