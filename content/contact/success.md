@@ -1,5 +1,6 @@
 ---
 title: "Message envoyé"
+title2: "Contacter un technicien spécialisé en destruction de nid de frelons européens / asiatiques et les guêpes"
 date: 2019-02-18T19:36:10+01:00
 draft: false
 ---
