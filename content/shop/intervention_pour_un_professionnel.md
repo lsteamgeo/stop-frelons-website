@@ -14,4 +14,4 @@ shortDescription: "Intervention traitement de nid"
 id: 2
 ---
 
- <h5 style="text-align:center;">Lors de la validation de votre demande, vous serez contacté(e) téléphoniquement pour fixer l'heure de l'intervention.</h5>
+<h5 style="text-align:center;">Lors de la validation de votre demande, vous serez contacté(e) téléphoniquement pour fixer l'heure de l'intervention.</h5>

@@ -29,4 +29,4 @@ draft: false
 			<p><button type="submit" id="c_send" class="btn btn-block btn-primary">Envoyer</button></p>
 		</form>
 	</div>
-<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-article">
+</div>
