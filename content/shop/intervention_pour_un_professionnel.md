@@ -3,7 +3,7 @@ title: "Intervention"
 title2: "Prise de rendez-vous avec un technicien pour une intervention chez un professionnel sur nids de frelons asiatiques/européens."
 subtitle: "Vous êtes un professionnel"
 subheading: "Stop-Frelons vous propose un seul et unique tarif à 139 euros, et ce, qu'elle que soit la hauteur du nid, le jour du déplacement ou le temps passé. Ce tarif comprend le déplacement, l'intervention et notre garantie."
-description: "Service destruction des nids de frelons asiatiques, de frelons européens et de guêpes."
+description: "Service destruction des nids de frelons asiatiques, de frelons européens et de guêpes. Forfait unique à 139 euros toutes hauteurs."
 keywords: "Rendez-vous,intervention,professionnels,destruction,nid de frelons,enlever nid frelons,frelons,frelons asiatiques,frelons européens,traitement nids de frelons,alpes-maritimes,var,monaco."
 image: /images/uploads/photo-1481595357459-84468f6eeaac.jpg
 date: 2019-02-18T19:36:10+01:00

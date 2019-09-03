@@ -1,7 +1,7 @@
 ---
 title: "Conseils"
 title2: "Enlever un nid de frelons, de frelons asiatiques et de guêpes"
-description: "Intervention rapide pour enlever un nid de frelons asiatiques, de frelons européens et de guêpes."
+description: "Intervention rapide pour enlever un nid de frelons asiatiques, de frelons européens et de guêpes. Destruction rapide, toutes hauteurs. Secteur Alpes-Maritimes, Var et Monaco."
 keywords: "nid de frelons,enlever nid frelons,frelons,frelons asiatiques,frelons européens,guêpes,traitement nids de frelons,alpes-maritimes,var,monaco."
 date: 2019-02-18T19:36:10+01:00
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Services"
 title2: "Destruction des nids de frelons, de frelons asiatiques et de guêpes"
-description: "Intervention rapide pour une destruction des nids de frelons asiatiques, de frelons européens et de guêpes."
+description: "Intervention rapide dans les Alpes-Maritimes, le Var et Monaco pour une destruction des nids de frelons asiatiques, de frelons européens et de guêpes. Destruction rapide, toutes hauteurs."
 keywords: "nid de frelons,enlever nid frelons,frelons,frelons asiatiques,frelons européens,guêpes,traitement nids de frelons,CERTIBIOCIDE,CERTIPHYTO,alpes-maritimes,var,monaco."
 date: 2019-02-18T19:36:10+01:00
 draft: false
