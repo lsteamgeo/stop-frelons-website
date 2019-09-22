@@ -6,6 +6,8 @@ image: /images/uploads/frelons-europeens-sortie-de-nid-stop-frelons-com.jpg
 ---
 Voici quelques photos de nids de frelons européens ou asiatiques qui on été traités par nos techniciens dans les départements des Alpes-Maritimes et du Var.
 
+![](/images/uploads/frelons-europeens-sortie-de-nid-stop-frelons-com.jpg)
+
 ![](/images/uploads/gros-nid-de-frelons-asiatiques-arbre-septembre-stop-frelons-com.jpg)
 
 ![](/images/uploads/nid-de-frelons-asiatiques-abri-de-jardin-stop-frelons-com.jpg)
