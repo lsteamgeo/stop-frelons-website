@@ -22,7 +22,7 @@ weight : 2
 <p>Quand cela est possible (accessibilité du nid), nous effectuons un second passage afin de récupérer le nid pour qu’il soit pris en charge dans une filière spécialisée.</p>
 		
 <h3>Notre tarif unique d'intervention</h3>
-<p>Stop-frelons propose un seul et unique tarif à 139 euros<sup>*</sup>, et ce, qu’elle que soit la hauteur du nid, le jour du déplacement ou le temps passé.</p>
+<p>Stop-frelons propose un seul et unique tarif à 139 euros<sup>*</sup>, et ce, quel que soit la hauteur du nid, le jour du déplacement ou le temps passé.</p>
 		
 <p><sup>*</sup> TVA non applicable, art. 293 B du CGI.</p>
 
