@@ -18,7 +18,7 @@ draft: false
 
 <p>4 - Certaines interventions peuvent nécessité l'utilisation de matériel spécifique. Ces éléments extérieurs devront être fournis par le client.</p>
 
-<p>5 – Particularité : Les interventions de traitement de nids dans les cheminées ne comprennent pas l'enlèvement du nid. Il sera sous la responsabilité du client de faire appel à un ramoneur professionnel pour enlever le nid une fois le traitement effectué avec un délai a minima de 7 jours.</p>
+<p>5 – Particularité : Les interventions de traitement de nids dans les cheminées ne comprennent pas l'enlèvement du nid. Il sera sous la responsabilité du client de faire appel à un ramoneur professionnel pour nettoyer le conduit une fois le traitement effectué avec a minima un délai de 7 jours.</p>
 
 <p>6 - Sauf stipulations contraires précisées dans notre offre, nos factures sont payables dès l’intervention effectuée par carte bancaire ou espèces. Aucun délai de paiement ne sera accordé.</p>
 
