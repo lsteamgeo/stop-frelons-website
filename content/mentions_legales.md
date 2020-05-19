@@ -9,7 +9,7 @@ draft: false
 <h4>Editeur du Site : </h4>
 <ul>
 	<li>Monsieur CHAMBORD</li>
-	<li>SIREN : 490 203 445</li>
+	<li>SIREN : 490 203 445 00047</li>
 	<li>Adresse : BP 30232 – 06408 Cannes Maria</li>
 	<li>Téléphone : 06 95 95 33 06</li>
 	<li>Email : contact@stop-frelons.com</li>
