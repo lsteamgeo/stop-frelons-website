@@ -7,7 +7,7 @@ image: /images/uploads/blog.jpg
 ---
 La dernière carte des départements / régions / pays colonisés par le frelon asiatique est disponible sur le site <a href="http://frelonasiatique.mnhn.fr/" target="_blank">http://frelonasiatique.mnhn.fr/</a>
 
-Lien direct : <a href="http://frelonasiatique.mnhn.fr/wp-content/uploads/sites/10/2020/01/Carte-Vespa-velutina-Europe-Q-Rome-MNHN-1024x832.png" target="_blank">http://frelonasiatique.mnhn.fr/wp-content/uploads/sites/10/2020/01/Carte-Vespa-velutina-Europe-Q-Rome-MNHN-1024x832.png</a>
+Lien direct : <a href="http://frelonasiatique.mnhn.fr/wp-content/uploads/sites/10/2020/01/Carte-Vespa-velutina-Europe-Q-Rome-MNHN-1024x832.png" target="_blank">Voir la carte</a>
 
 Cette carte est également disponible en version progressive de l’invasion des espaces colonisés par le frelon asiatique de 2004 à aujourd’hui.
 
