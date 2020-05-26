@@ -3,6 +3,7 @@ title: Espaces colonisés par le Vespa velutina au 13 janvier 2020.
 date: 2020-05-20T15:22:06.196Z
 description: La dernière carte des départements / régions / pays colonisés par
   le frelon asiatique est disponible.
+image: /images/uploads/blog.jpg
 ---
 La dernière carte des départements / régions / pays colonisés par le frelon asiatique est disponible sur le site <a href="http://frelonasiatique.mnhn.fr/" target="_BLANK">http://frelonasiatique.mnhn.fr/"</a>
 
