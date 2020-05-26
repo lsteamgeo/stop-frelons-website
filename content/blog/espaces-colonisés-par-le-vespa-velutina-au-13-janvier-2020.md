@@ -5,7 +5,7 @@ description: La dernière carte des départements / régions / pays colonisés p
   le frelon asiatique est disponible.
 image: /images/uploads/blog.jpg
 ---
-La dernière carte des départements / régions / pays colonisés par le frelon asiatique est disponible sur le site <a href="http://frelonasiatique.mnhn.fr/" target="_blank">site Internet du MNHN</a>
+La dernière carte des départements / régions / pays colonisés par le frelon asiatique est disponible sur le site <a href="http://frelonasiatique.mnhn.fr/" target="_blank">Internet du MNHN</a>
 
 Lien direct : <a href="http://frelonasiatique.mnhn.fr/wp-content/uploads/sites/10/2020/01/Carte-Vespa-velutina-Europe-Q-Rome-MNHN-1024x832.png" target="_blank">voir la carte</a>
 
